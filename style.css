@@ -3559,7 +3559,7 @@
 #a3b4c5d6e7f8g9h0i { filter: blur(0.7px) brightness(1.1); text-shadow: 1px 1px 2px #111; width: 180px; height: 180px; }
 #ughjuygh9875 {
   width: 100%;
-  height: calc(100vh + 51px);
+  height: calc(100% + 51px);
   position: relative;
   top: -51px;
   background-color: #000;
