@@ -3565,9 +3565,9 @@
 }
 #kscoibbiuwvs21862skdbvkiu {
   width: 100%;
-  height: calc(100vh + 51px);
+  height: calc(100vh + 31px);
   position: relative;
-  top: -51px;
+  top: -31px;
   background-color: #000;
 }
 #a1b2c3d4e5f6g7h8i9j { display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; width: 300px; height: 200px; background: linear-gradient(135deg, #ffaaaa, #aaffff); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transform: rotateX(5deg) rotateY(10deg); }
