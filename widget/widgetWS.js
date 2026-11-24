@@ -1,4 +1,3 @@
-<script>
         (function() {
 
             // ELEMENTOS PRINCIPALES
@@ -1193,4 +1192,3 @@
             renderCountries();
 
         })();
-    </script>
