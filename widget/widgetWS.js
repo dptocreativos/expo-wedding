@@ -1165,7 +1165,7 @@
                 window.open(url, "_blank");
 
                 // GUARDAR LOS DATOS EN WIX CMS
-                fetch("/_functions/guardarClickWhatsApp", {
+                fetch("https://grupojezadirectora.wixstudio.com/expo-wedding/_functions/guardarClickWhatsApp", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json"
