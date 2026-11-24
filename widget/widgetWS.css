@@ -15,8 +15,7 @@
             max-width: calc(100vw - 60px);
             background: #fff;
             border-radius: 20px;
-            overflow: visible;
-            ;
+            overflow: visible;           ;
             box-shadow: 0 5px 25px rgba(0, 0, 0, .13);
             z-index: 999999;
             opacity: 0;
@@ -60,7 +59,7 @@
 
         #waWidget .name {
             font-size: 17px;
-            font-weight: 550;
+            font-weight: 500;
             color: #333;
             margin: 0 0 2px;
             line-height: 1;
