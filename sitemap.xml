@@ -1,56 +1,70 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
         <loc>https://expo-wedding.com/</loc>
+        <priority>1.0</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/formulario</loc>
-    </url>
-
-    <url>
-        <loc>https://expo-wedding.com/edicion-i</loc>
+        <priority>0.6</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/login-expositores</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://expo-wedding.com/edicion-i</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-ii</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-iii</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-iv</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-v</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-vi</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-vii</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-viii</loc>
+        <priority>0.8</priority>
     </url>
 
     <url>
         <loc>https://expo-wedding.com/edicion-ix</loc>
+        <priority>0.8</priority>
     </url>
 
-    
-
-
+    <url>
+        <loc>https://expo-wedding.com/10ma-edicion.html</loc>
+        <priority>1.0</priority>
+    </url>
 
 </urlset>
